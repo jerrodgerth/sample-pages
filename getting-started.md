@@ -1,3 +1,5 @@
+**THIS IS AN EXAMPLE**
+
 # Getting Started with SR Linux
 
 Nokia is providing SR Linux in a publicly available Docker image.
